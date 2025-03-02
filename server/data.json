@@ -1,0 +1,13 @@
+{
+  "test": {
+    "data1": {
+      "array": [
+        "test",
+        "array"
+      ]
+    },
+    "data2": 40,
+    "data3": "stable"
+  },
+  "someKey": "hi"
+}
